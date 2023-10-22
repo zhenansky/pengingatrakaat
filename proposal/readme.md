@@ -48,6 +48,9 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 
 Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma:
 
+- **Metode**
+  CRISP-DM
+
 - **Sensor**:
   - Pengenalan Gerakan Shalat: Penggunaan sensor kamera smartphone untuk mengenali gerakan dalam shalat.
   - Pengenalan Suara: PANN untuk memberikan pengingat suara.
@@ -56,3 +59,5 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
 - **Responder**:
   - Sintesis Suara: Penggunaan teknologi sintesis suara untuk memberikan pengingat suara.
   - Pengembangan Perangkat Lunak Mobile: Pengembangan aplikasi seluler untuk integrasi pengingat rakaat.
+
+**Prototype**:
