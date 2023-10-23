@@ -5,10 +5,11 @@ Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Pengingat
 **Latar Belakang**
 
 Pembuatan produk UbiCom ini didasari oleh beberapa alasan utama:
+Shalat adalah kewajiban penting dalam agama Islam. Banyak orang merasa kesulitan untuk menghitung dan mengingat jumlah rakaat dalam shalat mereka.
 
-1. **Seringnya orang lupa rakaat dalam shalat**: Shalat adalah kewajiban penting dalam agama Islam. Banyak orang merasa kesulitan untuk menghitung dan mengingat jumlah rakaat dalam shalat mereka.
+Hampir semua orang memiliki smartphone, dan ini adalah alat yang dapat dimanfaatkan untuk membantu mengingat rakaat dalam shalat. Berdasarkan data yang dilansir dari wordometers jumlah penduduk di indonesia sebanyak  juta jiwa per 08 Agustus 2023 dan 73 juta pengguna smartphone.
 
-2. **Teknologi Smartphone yang Luas**: Hampir semua orang memiliki smartphone, dan ini adalah alat yang dapat dimanfaatkan untuk membantu mengingat rakaat dalam shalat. Berdasarkan data yang dilansir dari wordometers jumlah penduduk di indonesia sebanyak  juta jiwa per 08 Agustus 2023 dan 73 juta pengguna smartphone.
+Smartphone tidak hanya berperan sebagai alat komunikasi, namun juga memiliki sensor bawaan dan teknologi canggih. Penggunaan smartphone atau tablet sebagai alat eksperimen dalam konteks pengingat rakaat dalam shalat menggunakan sensor kamera smartphone tidak hanya memberikan keuntungan dalam mengukur dengan akurat, tetapi juga memungkinkan eksperimen dan analisis data pengukuran yang lebih baik, semuanya dilakukan dengan satu perangkat, menjadikan teknologi ini untuk membantu manusia khususnya umat muslim dalam ibadahnya.
 
 **Literatur terkait**
 1. Azizah, N., Sujana, N., & Ajibroto, K. (2022). Implementasi Sensor Ultrasonik Untuk Menghitung Rakaat Shalat Berbasis Arduino Uno. Formosa Journal of Multidisciplinary Research, 1(2), 187–196. https://doi.org/10.55927/fjmr.v1i2.520
