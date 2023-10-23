@@ -40,7 +40,7 @@ Shalat yuk! harus memberikan pengalaman pengguna yang:
 Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengguna Salahat:
 |Sebagai|Saya ingin bisa|sehingga|prioritas
 |-----|------|------|------|
-1. **Sebagai Sistem**, saya ingin bisa merekognisi gerakan dalam shalat pengguna, sehingga bisa memberikan pengingat yang tepat saat tiba saatnya shalat selesai. (Prioritas: ⭐⭐⭐⭐⭐)
+|Sistem|ingin bisa merekognisi gerakan dalam shalat pengguna|sehingga bisa memberikan pengingat yang tepat saat tiba saatnya shalat selesai|⭐⭐⭐⭐⭐|
 
 2. **Sebagai Sistem**, saya ingin memberikan pengingat suara saat tiba saatnya untuk berpindah ke rakaat berikutnya dalam shalat, sehingga pengguna dapat menjalani shalat dengan lebih khusyuk. (Prioritas: ⭐⭐⭐⭐)
 
