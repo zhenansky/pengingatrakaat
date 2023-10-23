@@ -41,10 +41,8 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 |Sebagai|Saya ingin bisa|sehingga|prioritas
 |-----|------|------|------|
 |Sistem|ingin bisa merekognisi gerakan dalam shalat pengguna|sehingga bisa memberikan pengingat yang tepat saat tiba saatnya shalat selesai|⭐⭐⭐⭐⭐|
-
-2. **Sebagai Sistem**, saya ingin memberikan pengingat suara saat tiba saatnya untuk berpindah ke rakaat berikutnya dalam shalat, sehingga pengguna dapat menjalani shalat dengan lebih khusyuk. (Prioritas: ⭐⭐⭐⭐)
-
-3. **Sebagai Sistem**, saya ingin memberikan tampilan visual pada layar smartphone yang menunjukkan jumlah rakaat yang telah dijalani, sehingga pengguna dapat dengan mudah mengikuti shalat mereka. (Prioritas: ⭐⭐⭐⭐)
+|Sistem|ingin memberikan tampilan visual pada layar smartphone yang menunjukkan jumlah rakaat yang telah dijalani|sehingga pengguna dapat dengan mudah mengikuti shalat mereka|⭐⭐⭐⭐|
+|Sistem|ingin memberikan pengingat suara saat tiba saatnya untuk berpindah ke rakaat berikutnya dalam shalat|sehingga pengguna dapat menjalani shalat dengan lebih khusyuk|⭐⭐⭐|
 
 **Metode dan Algoritma**
 
@@ -65,3 +63,4 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
   - Pengembangan Perangkat Lunak Mobile: Pengembangan aplikasi seluler untuk integrasi pengingat rakaat.
 
 **Prototype**:
+https://www.canva.com/design/DAFx-0Vs7Y4/eLdXgYO0YV-ivXu0q1EaXg/edit?utm_content=DAFx-0Vs7Y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
