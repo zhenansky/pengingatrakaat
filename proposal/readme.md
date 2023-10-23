@@ -55,13 +55,11 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
 
 - **Sensor**:
   - Pengenalan Gerakan Shalat: Penggunaan sensor kamera smartphone untuk mengenali gerakan dalam shalat.
-  - Pengenalan Suara: PANN untuk memberikan pengingat suara.
-  - Tampilan Visual: Menggunakan pengolahan gambar untuk menampilkan tampilan visual pada layar smartphone.
 
 - **Responder**:
-  - Sintesis Suara: Penggunaan teknologi sintesis suara untuk memberikan pengingat suara.
-  - Pengembangan Perangkat Lunak Mobile: Pengembangan aplikasi seluler untuk integrasi pengingat rakaat.
-
+  - Speaker: untuk memberikan pengingat suara.
+  - Tampilan Visual: Menggunakan pengolahan gambar untuk menampilkan tampilan visual pada layar smartphone.
+  
 **Prototype**:
 https://www.canva.com/design/DAFx-0Vs7Y4/eLdXgYO0YV-ivXu0q1EaXg/edit?utm_content=DAFx-0Vs7Y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
