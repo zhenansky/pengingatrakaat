@@ -64,3 +64,11 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
 
 **Prototype**:
 https://www.canva.com/design/DAFx-0Vs7Y4/eLdXgYO0YV-ivXu0q1EaXg/edit?utm_content=DAFx-0Vs7Y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Deskripsi Teknologi**
+Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem.
+
+Mesin Komputasi : Smartphone Android (Xiaomi Redmi 5 Plus), mengapa memmakai smartphone karena smartphone sudah dilengkapi banyak sensor dan juga mudah dibawa kemana-mana, salah satunya camera yang nantinya bisa mendeteksi gerakan shalat
+
+Software development : Flutter adalah kerangka pengembangan perangkat lunak open-source yang dikembangkan oleh Google. Ini digunakan untuk membuat aplikasi seluler, web, desktop, dan perangkat digital lainnya dengan menggunakan bahasa pemrograman Dart. framework ini nantinya membantu mwmbangun aplikasi shalat yuk!
+
