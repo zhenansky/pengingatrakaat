@@ -24,7 +24,7 @@ Dalam mengembangkan merek dan citra produk UbiCom untuk pengingat rakaat dalam s
 
 Salahat ditujukan untuk:
 
-- **Usia Semua**: Produk ini dirancang agar bisa digunakan oleh semua kelompok usia, terutama bagi mereka yang membutuhkan bantuan dalam menjalani shalat.
+- **Semua Usia**: Produk ini dirancang agar bisa digunakan oleh semua kelompok usia, terutama bagi mereka yang membutuhkan bantuan dalam menjalani shalat.
 - **Pengguna Smartphone**: Karena produk ini berbasis smartphone, pengguna harus memiliki smartphone.
 
 **User Experience Theme**
