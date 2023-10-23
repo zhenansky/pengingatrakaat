@@ -23,14 +23,14 @@ Dalam mengembangkan merek dan citra produk UbiCom untuk pengingat rakaat dalam s
 
 **Target Pengguna**
 
-Salahat ditujukan untuk:
+aplikasi ini ditujukan untuk:
 
-- **Semua Usia**: Produk ini dirancang agar bisa digunakan oleh semua kelompok usia, terutama bagi mereka yang membutuhkan bantuan dalam menjalani shalat.
+- **Semua umat muslim**: Produk ini dirancang agar bisa digunakan oleh semua kelompok usia, terutama bagi mereka yang membutuhkan bantuan dalam menjalani shalat.
 - **Pengguna Smartphone**: Karena produk ini berbasis smartphone, pengguna harus memiliki smartphone.
 
 **User Experience Theme**
 
-Salahat harus memberikan pengalaman pengguna yang:
+Shalat yuk! harus memberikan pengalaman pengguna yang:
 
 - **Mudah digunakan**: Pengguna harus dapat dengan mudah mengaktifkan pengingat rakaat dan memanfaatkan teknologi ini.
 - **Terkoneksi dengan Aplikasi Smartphone**: Aplikasi harus terintegrasi dengan aplikasi seluler untuk memberikan pengingat yang tepat pada waktu yang benar.
@@ -38,7 +38,8 @@ Salahat harus memberikan pengalaman pengguna yang:
 **User Story**
 
 Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengguna Salahat:
-
+|Sebagai|Saya ingin bisa|sehingga|prioritas
+|-----|------|------|------|
 1. **Sebagai Sistem**, saya ingin bisa merekognisi gerakan dalam shalat pengguna, sehingga bisa memberikan pengingat yang tepat saat tiba saatnya shalat selesai. (Prioritas: ⭐⭐⭐⭐⭐)
 
 2. **Sebagai Sistem**, saya ingin memberikan pengingat suara saat tiba saatnya untuk berpindah ke rakaat berikutnya dalam shalat, sehingga pengguna dapat menjalani shalat dengan lebih khusyuk. (Prioritas: ⭐⭐⭐⭐)
@@ -50,7 +51,9 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma:
 
 - **Metode**
-  CRISP-DM
+  - Metode Scrum
+  - mobile software development
+
 
 - **Sensor**:
   - Pengenalan Gerakan Shalat: Penggunaan sensor kamera smartphone untuk mengenali gerakan dalam shalat.
