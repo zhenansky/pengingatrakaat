@@ -18,9 +18,6 @@ Maka dari itu dengan memanfaatkan teknologi yang ada sekarang dan banyaknya peng
 2. Xia, Y., Hu, J., Zhao, S., Tao, L., Li, Z., Yue, T., & Kong, J. (2022). Build-in sensors and analysis algorithms aided smartphone-based sensors for point-of-care tests. Biosensors and Bioelectronics: X, 11(May), 100195. https://doi.org/10.1016/j.biosx.2022.100195
 3. QS. An Nisa: 103
 
-Baca artikel detikhikmah, "10 Dalil Perintah Sholat dalam Al-Qur'an" selengkapnya https://www.detik.com/hikmah/khazanah/d-6451529/10-dalil-perintah-sholat-dalam-al-quran.
-
-Download Apps Detikcom Sekarang https://apps.detik.com/detik/
 **Branding**
 
 Dalam mengembangkan merek dan citra produk UbiCom untuk pengingat rakaat dalam shalat, kami memilih:
