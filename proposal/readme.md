@@ -52,8 +52,8 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algoritma:
 
 - **Metode**
-  - Metode Scrum
-  - mobile software development
+  - Metode Agile : Pengembangan aplikasi shalat yuk ini menggunakan metode agile yang nantinya pengembangan akan berfokus kepada satu fitur terlebih dahulu, dan jika ada fitur yang memungkinkan untuk ditambahkan pada aplikasi maka bisa dikembangkan juga.
+  - mobile software development : Pengembangan aplikasi shalat yuk ini akan menggunakan Flutter karena aplikasi ini bertujuan untuk digunakan pada smartphone.
 
 
 - **Sensor**:
