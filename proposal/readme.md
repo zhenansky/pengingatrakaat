@@ -57,7 +57,7 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
 
 
 - **Sensor**:
-  - Pengenalan Gerakan Shalat: Penggunaan sensor kamera smartphone untuk mengenali gerakan dalam shalat.
+  - Computer Vision : Face Recognition, metode Haar Cascade
 
 - **Responder**:
   - Speaker: untuk memberikan pengingat suara.
