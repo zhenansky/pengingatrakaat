@@ -2,6 +2,9 @@
 
 Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Pengingat Rakaat dalam Shalat Menggunakan Sensor Kamera Smartphone."
 
+**Link Video Project**
+https://drive.google.com/file/d/1NMmC_KoSBcWXSePox4Ui6EW58Tc-6CYM/view?usp=drive_link
+
 **Latar Belakang**
 
 Pembuatan produk UbiCom ini didasari oleh beberapa alasan utama:
@@ -77,7 +80,6 @@ Software development : Flutter adalah kerangka pengembangan perangkat lunak open
 **Arsitektur Sistem**
 ![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
 
-**Link Video Project**
-https://drive.google.com/file/d/1NMmC_KoSBcWXSePox4Ui6EW58Tc-6CYM/view?usp=drive_link
+
 
 
