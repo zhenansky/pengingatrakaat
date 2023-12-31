@@ -65,6 +65,9 @@ Untuk mencapai tujuan di atas, kami akan menggunakan berbagai metode dan algorit
 - **Responder**:
   - Speaker: untuk memberikan pengingat suara.
   - Tampilan Visual: Menggunakan pengolahan gambar untuk menampilkan tampilan visual pada layar smartphone.
+ 
+
+Algoritma pada aplikasi ini menggunakan haar cascade yang dimana ini digunakan untuk mendeteksi wajah pada saat rukuk, kemudian setelah wajah terdeteksi maka rakaat bertambah. pada saat wajah terdeteksi sekali sistem melakukan delay 1 menit (belum pasti) untuk menghindari penambahan rakaat pada saat yang sama.
   
 **Prototype**:
 https://www.canva.com/design/DAFx-0Vs7Y4/eLdXgYO0YV-ivXu0q1EaXg/edit?utm_content=DAFx-0Vs7Y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
