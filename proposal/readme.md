@@ -88,10 +88,11 @@ Rest API : Flask, flask kurang lebih sama, digunakan untuk membangun back-end un
 
 
 **Arsitektur Sistem**
-- ![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
+![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
 
 **Flowchart**
-- ![flowchart drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/8eef3be2-c718-4cfe-ab65-97875653e070)
+![flowchartrev drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/c4b73b62-e18c-4f7f-96aa-7932d75a7407)
+
 
 
 
