@@ -80,8 +80,10 @@ Mesin Komputasi : Smartphone Android (Xiaomi Redmi 5 Plus), mengapa memmakai sma
 
 Software development : Flutter adalah kerangka pengembangan perangkat lunak open-source yang dikembangkan oleh Google. Ini digunakan untuk membuat aplikasi seluler, web, desktop, dan perangkat digital lainnya dengan menggunakan bahasa pemrograman Dart. framework ini nantinya membantu mwmbangun aplikasi shalat yuk!
 
+
 **Arsitektur Sistem**
 ![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
+
 
 
 
