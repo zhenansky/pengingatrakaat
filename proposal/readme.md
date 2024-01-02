@@ -4,6 +4,7 @@ Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Pengingat
 
 **Link Video Project**
 https://drive.google.com/file/d/1NMmC_KoSBcWXSePox4Ui6EW58Tc-6CYM/view?usp=drive_link
+
 **Draft Proposal**
 https://docs.google.com/document/d/1o_FaOVJ_vSdKg9k36pvqUjeEDamAsL1-uB-55lQxZXU/edit?usp=sharing
 
