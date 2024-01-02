@@ -78,7 +78,9 @@ Nantinya sistem mendeteksi seseorang ketetika sujud dan menghitung rakaat shalat
 
 Mesin Komputasi : Smartphone Android (Xiaomi Redmi 5 Plus), mengapa memmakai smartphone karena smartphone sudah dilengkapi banyak sensor dan juga mudah dibawa kemana-mana, salah satunya camera yang nantinya bisa mendeteksi gerakan shalat
 
-Software development : Flutter adalah kerangka pengembangan perangkat lunak open-source yang dikembangkan oleh Google. Ini digunakan untuk membuat aplikasi seluler, web, desktop, dan perangkat digital lainnya dengan menggunakan bahasa pemrograman Dart. framework ini nantinya membantu mwmbangun aplikasi shalat yuk!
+Software development (Frontend): Flutter adalah kerangka pengembangan perangkat lunak open-source yang dikembangkan oleh Google. Ini digunakan untuk membuat aplikasi seluler, web, desktop, dan perangkat digital lainnya dengan menggunakan bahasa pemrograman Dart. framework ini nantinya membantu mwmbangun aplikasi shalat yuk!
+
+Rest API : Flask, flask kurang lebih sama, digunakan untuk membangun back-end untuk dimanfaatkan oleh frone-end
 
 
 **Arsitektur Sistem**
