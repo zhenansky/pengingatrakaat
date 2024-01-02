@@ -87,11 +87,11 @@ Software development (Frontend): Flutter adalah kerangka pengembangan perangkat 
 Rest API : Flask, flask kurang lebih sama, digunakan untuk membangun back-end untuk dimanfaatkan oleh frone-end
 
 **Arsitektur Sistem**
--![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
+- ![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
 
 
 **Flowchart**
--![flowchartrev drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/c4b73b62-e18c-4f7f-96aa-7932d75a7407)
+- ![flowchartrev drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/c4b73b62-e18c-4f7f-96aa-7932d75a7407)
 
 
 
