@@ -82,10 +82,10 @@ Software development : Flutter adalah kerangka pengembangan perangkat lunak open
 
 
 **Arsitektur Sistem**
-![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
+- ![image](https://github.com/zhenansky/pengingatrakaat/assets/63436760/bcc2f602-a97a-426a-bbfd-059332d38697)
 
 **Flowchart**
-![flowchart drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/8eef3be2-c718-4cfe-ab65-97875653e070)
+- ![flowchart drawio](https://github.com/zhenansky/pengingatrakaat/assets/63436760/8eef3be2-c718-4cfe-ab65-97875653e070)
 
 
 
